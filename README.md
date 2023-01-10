@@ -25,8 +25,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
 
-![alt text](./assets/Screenshot.png)
-![alt text](./assets/Screenshot_Of_Website_working.png)
+![alt text](./assets/images/Favourites%20tab.png)
+![alt text](./assets/images/Main%20Page.png)
+![alt text](./assets/images/Recipes%20displaying.png)
 
 
 ## Credits
@@ -37,13 +38,17 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
-GitHub Profile = TODO:
+GitHub Profile = 
+https://github.com/jacko2611
+https://github.com/wolldog Lydia Wallis
+https://github.com/mamad2000
+https://github.com/Sudarshans30
 
 ## License
 
 MIT License
 
-Copyright (c) [2022] [<NAME>]
+Copyright (c) [2022] [Plate Pals/wolldog and all contributors]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -69,7 +74,7 @@ SOFTWARE.
 ```md
 AS A food enthusiast with passion to host people
 I WANT to choose a good variety of simple recipes for foods and drinks 
-SO THAT I can impress my guests with good food and drinks
+SO THAT I can impress my guests with great food and drinks
 ```
 
 
